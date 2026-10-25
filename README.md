@@ -37,6 +37,9 @@ Information only. Not affiliated with any government agency. Not legal, tax or i
 
 ## 中文用户
 
+完整中文说明：[README.zh.md](README.zh.md)
+
+
 - 免费领《2026 上海企业补贴清单》+ Excel 追踪表：https://shituapp.com/dot/calendar.html?src=github-cn
 - 30 秒自测你能报什么：https://shituapp.com/dot/check.html?src=github-cn
 - 免费试读 7 天日报：https://shituapp.com/dot/?src=github-cn
