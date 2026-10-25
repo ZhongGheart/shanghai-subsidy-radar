@@ -24,3 +24,10 @@ A daily English/Chinese brief of **Shanghai government grants, subsidies and inc
 ## Disclaimer
 
 Information only. Not affiliated with any government agency. Not legal, tax or investment advice. We do not apply on your behalf and do not guarantee any funding. Programmes, amounts and deadlines change; confirm with the official Chinese notice before acting.
+
+## Free resources
+
+- [2026 Shanghai subsidy tracker (Excel)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/main/docs/shanghai-subsidy-tracker-2026.xlsx)
+- [The 2026 Shanghai Subsidy Playbook (PDF)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/main/docs/the-2026-shanghai-subsidy-playbook.pdf)
+- [Free 2-page checklist (EN)](https://shituapp.com/dot/en/checklist.html) · [中文清单](https://shituapp.com/dot/calendar.html)
+- [Sample eligibility memo (PDF)](https://shituapp.com/dot/assets/sample-eligibility-memo.pdf)
