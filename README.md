@@ -1,5 +1,14 @@
 # Shanghai Subsidy Radar · 上海补贴雷达
 
+## Start here
+
+- **Free 2026 checklist (PDF + Excel tracker)**: https://shituapp.com/dot/en/checklist.html?src=github
+- **30-second eligibility check**: https://shituapp.com/dot/en/check.html?src=github
+- **Daily English brief, free 7-day trial**: https://shituapp.com/dot/en/?src=github
+- **The 2026 Shanghai Subsidy Playbook ($29)**: https://shituapp.com/dot/en/playbook.html?src=github
+- **Eligibility memo, done for you (from $50)**: https://shituapp.com/dot/en/research.html?src=github
+
+
 A daily English/Chinese brief of **Shanghai government grants, subsidies and incentives** that are currently open — with deadlines and links to the official Chinese notices.
 
 - Website (中文): https://shituapp.com/dot/
