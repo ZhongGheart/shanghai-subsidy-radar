@@ -27,7 +27,7 @@ Information only. Not affiliated with any government agency. Not legal, tax or i
 
 ## Free resources
 
-- [2026 Shanghai subsidy tracker (Excel)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/main/docs/shanghai-subsidy-tracker-2026.xlsx)
-- [The 2026 Shanghai Subsidy Playbook (PDF)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/main/docs/the-2026-shanghai-subsidy-playbook.pdf)
+- [2026 Shanghai subsidy tracker (Excel)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/master/docs/shanghai-subsidy-tracker-2026.xlsx)
+- [The 2026 Shanghai Subsidy Playbook (PDF)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/master/docs/the-2026-shanghai-subsidy-playbook.pdf)
 - [Free 2-page checklist (EN)](https://shituapp.com/dot/en/checklist.html) · [中文清单](https://shituapp.com/dot/calendar.html)
 - [Sample eligibility memo (PDF)](https://shituapp.com/dot/assets/sample-eligibility-memo.pdf)
