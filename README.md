@@ -34,6 +34,14 @@ A daily English/Chinese brief of **Shanghai government grants, subsidies and inc
 
 Information only. Not affiliated with any government agency. Not legal, tax or investment advice. We do not apply on your behalf and do not guarantee any funding. Programmes, amounts and deadlines change; confirm with the official Chinese notice before acting.
 
+## 中文用户
+
+- 免费领《2026 上海企业补贴清单》+ Excel 追踪表：https://shituapp.com/dot/calendar.html?src=github-cn
+- 30 秒自测你能报什么：https://shituapp.com/dot/check.html?src=github-cn
+- 免费试读 7 天日报：https://shituapp.com/dot/?src=github-cn
+- 补贴实战手册 ¥199：https://shituapp.com/dot/playbook.html?src=github-cn
+- 补贴匹配诊断 ¥299 起：https://shituapp.com/dot/service.html?src=github-cn
+
 ## Free resources
 
 - [2026 Shanghai subsidy tracker (Excel)](https://github.com/ZhongGheart/shanghai-subsidy-radar/raw/master/docs/shanghai-subsidy-tracker-2026.xlsx)
