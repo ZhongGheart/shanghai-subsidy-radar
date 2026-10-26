@@ -5,8 +5,9 @@
 - **Free 2026 checklist (PDF + Excel tracker)**: https://shituapp.com/dot/en/checklist.html?src=github
 - **30-second eligibility check**: https://shituapp.com/dot/en/check.html?src=github
 - **Daily English brief, free 7-day trial**: https://shituapp.com/dot/en/?src=github
-- **The 2026 Shanghai Subsidy Playbook ($29)**: https://shituapp.com/dot/en/playbook.html?src=github
+- **The 2026 Shanghai Subsidy Playbook ($29)**: https://payhip.com/b/D9QCU
 - **Eligibility memo, done for you (from $50)**: https://shituapp.com/dot/en/research.html?src=github
+- **Order the eligibility memo on Payhip**: https://payhip.com/b/TGDPU
 - **Hire on Fiverr**: https://www.fiverr.com/jinyang778/research-shanghai-subsidies-for-your-company
 
 
